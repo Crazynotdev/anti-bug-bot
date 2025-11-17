@@ -1,0 +1,18 @@
+{
+    "name": "CRAZY-ANTIBUG",
+    "version": "1.0.0",
+    "description": "Bot WhatsApp pro blindé contre les bugs et attaques",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "Crazy",
+    "license": "MIT",
+    "dependencies": {
+      "baileys": "https://github.com/afrinode-dev/crazy-bot/archive/refs/tags/v.0.0.1.tar.gz",
+      "pino": "^8.0.0",
+      "readline-sync": "^1.4.10"
+    }
+  }
+  
